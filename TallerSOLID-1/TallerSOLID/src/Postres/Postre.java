@@ -5,10 +5,9 @@
  */
 package Postres;
 
-import Procesos.ManejadorDePrecio;
-import src.Procesos.Aderezo;
-import src.Procesos.String;
 
+
+import Adicionales.Aderezo;
 import java.util.ArrayList;
 
 /**
@@ -17,12 +16,12 @@ import java.util.ArrayList;
  */
 public class Postre {
 	
-	private String sabor;
-    private double precioParcial;
-    private ArrayList<Aderezo> aderezos;
+    protected String sabor;
+    protected double precioParcial;
+    protected ArrayList<Aderezo> aderezos;
     
-    public ManejadorDePrecio (double precioParcial, ArrayList<Aderezo> aderezos) {
-    	this.precioParcial = preParcial;
+    public void ManejadorDePrecio (double precioParcial, ArrayList<Aderezo> aderezos) {
+    	this.precioParcial = precioParcial;
     	this.aderezos = aderezos;
     }
 	
@@ -30,8 +29,8 @@ public class Postre {
         return aderezos;
     }
     
-    public void setaderezos(){
-    	this.aderezos = aderezos;
+    public void setaderezos(ArrayList<Aderezo> ad){
+    	this.aderezos = ad;
     }
     
     public double getprecioParcial() {

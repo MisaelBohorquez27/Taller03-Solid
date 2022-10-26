@@ -5,6 +5,7 @@
  */
 package Postres;
 
+import Adicionales.Aderezo;
 import java.util.ArrayList;
 /**
  *

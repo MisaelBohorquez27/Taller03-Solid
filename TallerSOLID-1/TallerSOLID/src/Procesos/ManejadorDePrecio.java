@@ -6,9 +6,7 @@ import src.Postres.String;
 
 public class ManejadorDePrecio {
 	
-	
-	
-	public double calcularPrecioFinal(){
+    public double calcularPrecioFinal(){
         double precioFinal;
         precioFinal=(precioParcial+(precioParcial*0.12))+(aderezos.size()*0.50);
         return precioFinal;
