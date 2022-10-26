@@ -23,4 +23,12 @@ public class Pastel extends Postre{
     public String toString() {
         return "Pastel{" + "sabor=" + sabor + ", precioParcial=" + precioParcial + ", aderezos=" + aderezos + '}';
     }
+    
+    public static void anadirAderezoPastel(Pastel pastel,Aderezo aderezo){
+        pastel.getAderezos().add(aderezo);
+    }
+    
+    public static void quitarAderezoPastel(Pastel pastel,Aderezo aderezo){
+        pastel.getAderezos().remove(aderezo);
+    }
 }
