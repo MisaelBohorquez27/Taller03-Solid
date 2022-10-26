@@ -9,6 +9,7 @@ package Adicionales;
  * @author Rommel Zamora
  */
 public class Malvaviscos extends Aderezo {
+    public Malvaviscos(){this.nombre="Malvaviscos";}
 
     @Override
     public void setNombre() {

@@ -9,6 +9,8 @@ package Adicionales;
  * @author Rommel Zamora
  */
 public class Frutilla extends Aderezo {
+    
+    public Frutilla(){this.nombre="Frutilla";}
 
     @Override
     public void setNombre() {

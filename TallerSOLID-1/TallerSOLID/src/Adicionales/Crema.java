@@ -9,6 +9,8 @@ package Adicionales;
  * @author Rommel Zamora
  */
 public class Crema extends Aderezo {
+    
+    public Crema(){this.nombre="Crema";}
     public void setNombre(String name){}
 
     @Override
