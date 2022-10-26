@@ -40,6 +40,10 @@ public class Postre {
     public void setprecioParcial(double precioParcial) {
     	this.precioParcial = precioParcial;
     }
+    
+    public void addAderezos(Aderezo ade){
+        aderezos.add(ade);
+    }
 		
 	
 	@Override

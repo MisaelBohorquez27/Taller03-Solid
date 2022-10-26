@@ -1,19 +1,17 @@
 package Procesos;
 
-import src.Postres.Aderezo;
-import src.Postres.ArrayList;
-import src.Postres.String;
+import Postres.Postre;
 
-public class ManejadorDePrecio {
+public class ManejadorDePrecio extends Postre{
 	
-    public double calcularPrecioFinal(){
+    public static double calcularPrecioFinal(Postre postre){
         double precioFinal;
-        precioFinal=(precioParcial+(precioParcial*0.12))+(aderezos.size()*0.50);
+        precioFinal=(postre.getprecioParcial()+(postre.getprecioParcial()*0.12))+(postre.getAderezos().size()*0.50);
         return precioFinal;
     }
 	
-    public String showPrecioFinal(){
-        return "Precio Final: $ " + calcularPrecioFinal();
+    public static String showPrecioFinal(Postre postre){
+        return "Precio Final: $ " + calcularPrecioFinal(postre);
     }
     
 }

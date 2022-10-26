@@ -3,15 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Principal/Sistema.java</file>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Leche/LecheEntera.java</file>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Leche/LecheDescremada.java</file>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Procesos/OperacionesAderezo.java</file>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Adicionales/Aderezo.java</file>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Leche/LecheDeslactosada.java</file>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Postres/Helado.java</file>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Procesos/ManejadorDeLeche.java</file>
-            <file>file:/C:/Drive/OneDrive%20-%20Escuela%20Superior%20Politécnica%20del%20Litoral/Fiec/Clases/DS/Talleres/Solid/T01/TallerSOLID/TallerSOLID/src/Postres/Pastel.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Principal/Sistema.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Leche/LecheDeslactosada.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Procesos/ManejadorDePrecio.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Leche/LecheEntera.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Postres/Helado.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Procesos/ManejadorDeLeche.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Leche/LecheDescremada.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Adicionales/Malvaviscos.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Postres/Postre.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Postres/Pastel.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Adicionales/Crema.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Adicionales/Frutilla.java</file>
+            <file>file:/C:/Users/radri/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc/LocalState/rootfs/home/razamoraw/CarpetaLinux/DisenoSoftware/Taller03-Solid/TallerSOLID-1/TallerSOLID/src/Adicionales/Aderezo.java</file>
         </group>
     </open-files>
 </project-private>
