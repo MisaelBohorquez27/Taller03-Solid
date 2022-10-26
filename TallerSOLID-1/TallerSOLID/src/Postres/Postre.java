@@ -17,15 +17,22 @@ public class Postre {
     protected double precioParcial;
     protected ArrayList<Aderezo> aderezos;
     
-    public double calcularPrecioFinal(){
-        double precioFinal;
-        precioFinal=(precioParcial+(precioParcial*0.12))+(aderezos.size()*0.50);
-        return precioFinal;
-    }
-    public String showPrecioFinal(){
-        return "Precio Final: $ " + calcularPrecioFinal();
-    }
+    
     public ArrayList<Aderezo> getAderezos() {
         return aderezos;
     }
+    
+    public void setaderezos(){
+    	this.aderezos = aderezos;
+    }
+    
+    public double getprecioParcial() {
+    	return precioParcial;
+    }
+    
+    public void setprecioParcial(double precioParcial) {
+    	this.precioParcial = precioParcial;
+    }
+    
+    
 }
